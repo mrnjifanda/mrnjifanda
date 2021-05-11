@@ -144,8 +144,4 @@
 
 <h3 align="left">📫&nbsp;Comment me joindre:</h3>
 
-[![Mail Badge](https://img.shields.io/badge/mail--%23316dca?style=for-the-badge&logo=mail&logoColor=white)](contact@njifanfa.com)
-
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/njifanda)
-
-[![Telegram Badge]( https://img.shields.io/badge/telegram--%23316dca?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/njifanda)
+[![Mail Badge](https://img.shields.io/badge/mail--%23316dca?style=for-the-badge&logo=mail&logoColor=white)](contact@njifanfa.com) [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/njifanda) [![Telegram Badge]( https://img.shields.io/badge/telegram--%23316dca?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/njifanda)
