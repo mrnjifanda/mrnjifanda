@@ -10,10 +10,29 @@
 <h3 align="left">🛠&nbsp;Mes langages et technologie:</h3>
 
 <p align="left">
-   <a href="https://reactjs.org/" target="_blank">
+
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="reactnative"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="Java"
+      width="40"
+      height="40"
+    />
+  </a>
+
+   <a href="https://php.net/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      alt="PHP"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://php.net/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+      alt="Ruby"
       width="40"
       height="40"
     />
@@ -22,7 +41,43 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
+      alt="Javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://angular.io/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
+      alt="Angular"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="React Native"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+      alt="Vue Js"
       width="40"
       height="40"
     />
@@ -46,37 +101,10 @@
     />
   </a>
 
-  <a href="https://redux.js.org" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://sass-lang.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://styled-components.com/" target="_blank">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/styled-components.svg"
-      alt="Styled-components"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://graphql.org" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongodb"
       width="40"
       height="40"
     />
@@ -91,37 +119,10 @@
     />
   </a>
 
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"
       alt="Docker"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.console.firebase.google.com" target="_blank">
-    <img
-      src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"
-      alt="firebase"
       width="40"
       height="40"
     />
