@@ -110,10 +110,10 @@
     />
   </a>
 
-  <a href="https://expressjs.com" target="_blank">
+  <a href="https://www.mysql.com/fr/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
-      alt="express"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+      alt="MySQL"
       width="40"
     height="40"
     />
