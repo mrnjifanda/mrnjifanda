@@ -139,7 +139,7 @@
 
 </p>
 
-[![Mes statistiques github](https://github-readme-stats.vercel.app/api?username=mrnjifanda&count_private=true&show_icons=true&theme=dark)](https://github.com/xaster-Kies/github-readme-stats)
+[![Mes statistiques github](https://github-readme-stats.vercel.app/api?username=mrnjifanda&count_private=true&show_icons=true&theme=dark)](https://github.com/mrnjifanda/github-readme-stats)
 
 [![Mes langages & technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnjifanda&layout=compact&hide=html,css&theme=dark)](https://github.com/mrnjifanda/github-readme-stats)
 
