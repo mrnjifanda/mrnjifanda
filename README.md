@@ -1,13 +1,13 @@
 # mrjifanda 👨🏽‍💻
 
-### Salut et bienvenu 🙂👋
+### Hi and welcome 🙂👋
 
 
-- 🔭 Je suis développeur web et mobile. :iphone: :globe_with_meridians:
-- 🌱 Je suis Full Stack . :satellite:
-- ⚡ Je suis: Passionné, Professionnel et Efficace  😄 :1st_place_medal: 📈
+- 🔭 I am a web and mobile developer. :iphone: :globe_with_meridians:
+- 🌱 I am Full Stack. :satellite:
+- ⚡ I am: Passionate, Professional and Efficient 😄 :1st_place_medal: 📈
 
-<h3 align="left">🛠&nbsp;Mes langages et technologie:</h3>
+<h3 align="left">🛠&nbsp;My languages and technology:</h3>
 
 <p align="left">
 
@@ -121,7 +121,7 @@
 
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ"
+      src="https://cdn.iconscout.com/icon/free/png-256/docker-3521391-2944835.png"
       alt="Docker"
       width="40"
       height="40"
@@ -143,6 +143,6 @@
 
 [![Mes langages & technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnjifanda&layout=compact&hide=html,css&theme=dark)](https://github.com/mrnjifanda/github-readme-stats)
 
-<h3 align="left">📫&nbsp;Comment me joindre:</h3>
+<h3 align="left">📫&nbsp;How to reach me:</h3>
 
 [![Mail Badge](https://img.shields.io/badge/mail--%23316dca?style=for-the-badge&logo=mail&logoColor=white)](contact@njifanfa.com) [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://au.linkedin.com/in/njifanda) [![Telegram Badge]( https://img.shields.io/badge/telegram--%23316dca?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/njifanda)
