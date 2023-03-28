@@ -29,7 +29,7 @@
     />
   </a>
 
-  <a href="https://php.net/" target="_blank">
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
       alt="Ruby"
