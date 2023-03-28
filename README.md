@@ -5,7 +5,7 @@
 
 - 🔭 I am a web and mobile developer. :iphone: :globe_with_meridians:
 - 🌱 I am Full Stack. :satellite:
-- ⚡ I am: Passionate, Professional and Efficient 😄 :1st_place_medal: 📈
+- ⚡ I am: Passionate, Professional and Efficient. 😄 :1st_place_medal: 📈
 
 <h3 align="left">🛠&nbsp;My languages and technology:</h3>
 
