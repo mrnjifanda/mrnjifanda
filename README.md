@@ -3,7 +3,7 @@
 ### Hi and welcome 🙂👋
 
 
-- 🔭 I am a web and mobile developer. :iphone: :globe_with_meridians:
+- 🔭 I am a web developer. :iphone: :globe_with_meridians:
 - 🌱 I am Full Stack. :satellite:
 - ⚡ I am: Passionate, Professional and Efficient. 😄 :1st_place_medal: 📈
 
@@ -13,26 +13,26 @@
 
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="Java"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="Python"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
+      alt="nodejs"
       width="40"
       height="40"
     />
   </a>
 
-   <a href="https://php.net/" target="_blank">
+  <a href="https://php.net/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
       alt="PHP"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
-      alt="Ruby"
       width="40"
       height="40"
     />
@@ -47,37 +47,10 @@
     />
   </a>
 
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://angular.io/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-      alt="Angular"
-      width="40"
-      height="40"
-    />
-  </a>
-
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="React Native"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-      alt="Vue Js"
       width="40"
       height="40"
     />
