@@ -5,7 +5,7 @@
 
 - 🔭 I am a web developer. :iphone: :globe_with_meridians:
 - 🌱 I am Full Stack. :satellite:
-- 🌱 I do MEAR, JS/TS, PYTHON, JAVA and PHP 🙂.
+- 🌱 I do MEAN, MERN , JS/TS, PYTHON, JAVA and PHP 🙂.
 - ⚡ I am: Passionate, Professional and Efficient. 😄 :1st_place_medal: 📈
 
 <h3 align="left">🛠&nbsp;My languages and technology:</h3>
