@@ -1,4 +1,4 @@
-# mrjifanda 👨🏽‍💻
+# Eric NJIFANDA 👨🏽‍💻
 
 ### Hi and welcome 🙂👋
 
